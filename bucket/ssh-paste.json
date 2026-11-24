@@ -1,15 +1,15 @@
 {
-    "version": "0.1.11",
+    "version": "0.1.12",
     "description": "Paste screenshots into programs that run over SSH",
     "homepage": "https://github.com/xuing/ssh-please-paste-picture",
     "license": "MIT",
     "notes": "Turn it on for a host: ssh-paste --enable HOST",
     "url": [
-        "https://github.com/xuing/ssh-please-paste-picture/releases/download/v0.1.11/ssh-paste.ps1",
-        "https://github.com/xuing/ssh-please-paste-picture/releases/download/v0.1.11/ssh-paste.cmd"
+        "https://github.com/xuing/ssh-please-paste-picture/releases/download/v0.1.12/ssh-paste.ps1",
+        "https://github.com/xuing/ssh-please-paste-picture/releases/download/v0.1.12/ssh-paste.cmd"
     ],
     "hash": [
-        "e139367ef0f63860d4b4551dd395c22b1726ca961ee59b1725593dff83de8250",
+        "e8b0013a37fda65165d20024d12789790d821fdee3a3dd76d8f61782f5ae51f8",
         "78dfbfc93c162f93373ff77e14ebaa1cc6fcf2c0fccfd94d2ab49bbd5774b9c1"
     ],
     "bin": "ssh-paste.cmd",
